@@ -5,7 +5,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
 /**
- * Created by Bilal on 29-01-2017.
+ * Created by Karim on 29-01-2017.
  */
 public class SingleItemMainMenuTest extends Base {
     public UiMainPage mainPage(){
